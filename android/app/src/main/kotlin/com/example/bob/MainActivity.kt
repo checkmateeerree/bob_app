@@ -1,4 +1,4 @@
-package com.example.bob
+package com.robotics.bob
 
 import io.flutter.embedding.android.FlutterActivity
 
